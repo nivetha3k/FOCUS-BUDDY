@@ -30,6 +30,26 @@ Completed:
 - Demo Video
 - GitHub Repository
 
+Working Prototype: 
+      The Focus Buddy software prototype has been successfully developed and tested.
+
+Implemented Screens:
+* Home Screen
+* Study Session Screen
+* Break Screen
+* Session Complete Screen
+
+Implemented Features:
+* Start Session Button
+* Real Study Timer
+* Real Break Timer
+* Interactive Screen Navigation
+* User-Friendly Interface
+* Motivational Buddy Messages
+
+Prototype Evidence:
+   The working prototype screenshots and demo video are available in the repository for reference and evaluation.
+
 Future Work:
 - Real Countdown Timer
 - Focus Score Tracking
